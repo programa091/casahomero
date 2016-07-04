@@ -1,0 +1,115 @@
+/* css externa --style.css-- */
+header {
+	text-align: center;
+	background-color: #9dc4c6;
+	padding: 5px 15px 0 15px;
+	height: 90px;
+	color: #fff;
+}
+
+#wrapper {
+	margin: 0px auto;
+	width: 1200px;
+	/* border: 2px solid #371cde; */
+	padding: 15px;
+}
+
+/*   Fecha de modificacion: 21/04     */
+body {
+	font-family: verdana, arial, sans-serif;
+}
+
+h1 {
+	margin: 0;
+	margin-top: 5px;
+}
+
+nav {
+	float: left;
+	background-color: #689B9E;
+	width: 160px;
+	height: 420px;
+}
+
+nav ul {
+	list-style-type: none;
+	margin-left: -15px;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: #fff;
+	line-height: 1.8em;
+}
+
+nav ul li a:hover {
+	color: #33332e;
+	/*text-decoration: underline;*/
+}
+
+#principal {
+	background-color: #e4fde1;
+	float: left;
+	width: 1020px;
+	padding: 0 10px 0 10px;
+	height: 420px;
+}
+
+#QS {
+	text-align: left;
+}
+
+/* Actualizacion 26/04 */
+footer {
+	clear: left;
+	width: 1190px;
+	background-color: #497a7a;
+	height: 50px;
+	padding: 5px 0 0px 10px;
+	text-align: center;
+}
+
+#destacado {
+	font-weight: bold;
+}
+
+footer p {
+	font-size: 12px;
+	line-height: 0.8em;
+	color: #fff;
+}
+
+.centrar {
+	display: block;
+	text-align: center;
+}
+
+/* Actualizacion 28-04 */
+table {
+	border-collapse: collapse;
+}
+
+td, th {
+	border: 1px solid #cccccc
+}
+
+.descripcion-col {
+	color: #fff;
+	background-color: #689B9E;
+}
+
+h1 {
+	text-align: center;
+}
+
+table {
+	display: block;
+	padding-top: 20px;
+	/*margin-top: 20px;*/
+}
+
+#slideWrap {
+	margin: 0px auto;
+	width: 420px;
+	height: 172px;
+}
